@@ -1,0 +1,6 @@
+C:\Proyecto Casa Reparadora\CasaReparadora\CasaReparadora\bin\CasaReparadora.dll
+C:\Proyecto Casa Reparadora\CasaReparadora\CasaReparadora\bin\CasaReparadora.pdb
+C:\Proyecto Casa Reparadora\CasaReparadora\CasaReparadora\obj\Debug\CasaReparadora.dll
+C:\Proyecto Casa Reparadora\CasaReparadora\CasaReparadora\obj\Debug\CasaReparadora.pdb
+C:\Proyecto Casa Reparadora\CasaReparadora\CasaReparadora\bin\CasaReparadora.dll.config
+C:\Proyecto Casa Reparadora\CasaReparadora\CasaReparadora\obj\Debug\CasaReparadora.csprojResolveAssemblyReference.cache
